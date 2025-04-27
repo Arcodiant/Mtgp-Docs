@@ -1,0 +1,15 @@
+site_name: MTGP
+
+extra_css:
+  - stylesheets/extra.css
+
+theme:
+  name: material
+  icon:
+    admonition:
+      warning: fontawesome/solid/person-digging
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
